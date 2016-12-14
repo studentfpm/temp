@@ -1,4 +1,6 @@
 one
 added two
 added three
+my new line
 added by someone
+
